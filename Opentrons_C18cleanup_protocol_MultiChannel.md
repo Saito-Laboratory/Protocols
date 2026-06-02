@@ -71,7 +71,8 @@ Notes: All solutions are made in LC/MS grade water (Optima W64). For instruction
 
 8.  When all the plates are ready, place them all in their correct location in the deck, as shown in the picture below:
 
-<img src="media/media/image1.png" style="width:6.62099in;height:2.29188in" />
+<img width="807" height="280" alt="image1" src="https://github.com/user-attachments/assets/a69c4546-94f5-4154-a512-21648aa3b0e5" />
+
 
 9.  Once all the plates have been placed you can start the run
 
