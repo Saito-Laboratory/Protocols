@@ -205,7 +205,7 @@ Add **30 µL** of 200 mM DTT in 50 mM HEPES pH 8.5 (10 µL per 100 µL lysate). 
 | Wash (Acetonitrile) | 100% acetonitrile (deep-well plate) | 700 µL |
 | DMSO Elution | 2% DMSO (shallow-well plate) | 90 µL |
 
-9.8 Load **PeptideRecovery_Round1_v3.bdz** in BindIt 4.1. Follow on-screen loading instructions. The protocol will combine both half-volume plates into a single output.
+9.8 Load **PeptideRecovery_Round2_v3-2platetest.bdz** in BindIt 4.1. Follow on-screen loading instructions. The protocol will combine both half-volume plates into a single output.
 
 9.9 When prompted, save the run report to: Desktop → BindIt 4.1 → Report Files. Start the protocol.
 
